@@ -24,7 +24,7 @@
       "exportID": "72799573",
       "exportMode": 0,
       "arrayMode": 0,
-      "defaultTileset": "New Tileset"
+      "defaultTileset": "ground"
     },
     {
       "definition": "entity",
@@ -74,6 +74,7 @@
     }
   ],
   "tilesets": [
-    {"label": "New Tileset", "path": "../images/ground.png", "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAMklEQVRYhe3OQQEAMAjEsGPGMIV/JoNPaqCp7tkc9i7nAAAAAAAAAAAAAAAAAAAASfIBXhoCMUJah9sAAAAASUVORK5CYII=", "tileWidth": 32, "tileHeight": 32, "tileSeparationX": 0, "tileSeparationY": 0, "tileMarginX": 0, "tileMarginY": 0}
+    {"label": "ground", "path": "../images/ground.png", "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAMklEQVRYhe3OQQEAMAjEsGPGMIV/JoNPaqCp7tkc9i7nAAAAAAAAAAAAAAAAAAAASfIBXhoCMUJah9sAAAAASUVORK5CYII=", "tileWidth": 32, "tileHeight": 32, "tileSeparationX": 0, "tileSeparationY": 0, "tileMarginX": 0, "tileMarginY": 0},
+    {"label": "ground_beta", "path": "../images/grond_beta.png", "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAZUlEQVRoge3QURXAIACAwLliljKGpUzmYtw+oAA8xpzrPpBz9pD+V8r/QAN0gKYBOkDTAB2gaYAO0DRAB2gaoAM0DdABmgboAE0DdICmATpA0wAdoGmADtA0QAdoGqADNA3QAZoPmk0EQNOLZJQAAAAASUVORK5CYII=", "tileWidth": 32, "tileHeight": 32, "tileSeparationX": 0, "tileSeparationY": 0, "tileMarginX": 0, "tileMarginY": 0}
   ]
 }
