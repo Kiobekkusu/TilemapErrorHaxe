@@ -1,12 +1,15 @@
 export/html5/bin/assets/data/data-goes-here.txt
 export/html5/bin/assets/data/first_map.json
 export/html5/bin/assets/data/first_map.ogmo
+export/html5/bin/assets/data/four_map.json
+export/html5/bin/assets/data/four_map.ogmo
 export/html5/bin/assets/data/second_map.json
 export/html5/bin/assets/data/second_map.ogmo
 export/html5/bin/assets/data/tecer_map.ogmo
 export/html5/bin/assets/data/tercer_map.json
 export/html5/bin/assets/images/grond_beta.png
 export/html5/bin/assets/images/ground.png
+export/html5/bin/assets/images/ground_beta.png
 export/html5/bin/assets/images/images-go-here.txt
 export/html5/bin/assets/music/music-goes-here.txt
 export/html5/bin/assets/sounds/sounds-go-here.txt

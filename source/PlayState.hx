@@ -13,8 +13,8 @@ class PlayState extends FlxState
 	{
 		super.create();
 
-		map = new FlxOgmo3Loader("assets/data/tecer_map.ogmo", "assets/data/tercer_map.json");
-		walls = map.loadTilemap("assets/images/grond_beta.png", "walls");
+		map = new FlxOgmo3Loader("assets/data/four_map.ogmo", "assets/data/four_map.json");
+		walls = map.loadTilemap("assets/images/ground_beta.png", "walls");
 		walls.follow();
 		walls.setTileProperties(1, NONE);
 		walls.setTileProperties(2, ANY); 
